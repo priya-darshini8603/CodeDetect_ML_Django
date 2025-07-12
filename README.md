@@ -2,7 +2,6 @@
 
 A Django web application that intelligently identifies the programming language of a given code snippet using a machine learning model. This application is designed to be lightweight and stateless, primarily focusing on the prediction functionality and **does not require a separate vectorizer or a database**.
 
----
 
 ## ✨ Features
 
@@ -12,7 +11,6 @@ A Django web application that intelligently identifies the programming language 
 - **No Database Required**: Designed for simplicity, it stores no persistent application data.
 - **Scalable**: Built with Django, making it easy to extend and integrate with other services.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -23,7 +21,7 @@ A Django web application that intelligently identifies the programming language 
 - Joblib (model persistence)
 - NumPy
 
-### 🎨 Frontend:
+### Frontend:
 - HTML5
 - CSS3
 - JavaScript (ES6+)
